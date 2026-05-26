@@ -63,3 +63,9 @@ npm run dev
 ├── tsconfig.json      # TypeScript compiler specifications
 └── vite.config.ts     # Bundler configuration file
 ```
+
+---
+
+## 📜 License
+
+Distributed under the **MIT License**. See `LICENSE` for more information.
