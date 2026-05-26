@@ -29,7 +29,7 @@ Follow these quick commands to set up the repository locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com
+git clone https://github.com/raymondoyondi/Linkify
 cd Linkify
 ```
 
