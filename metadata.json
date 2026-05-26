@@ -1,0 +1,6 @@
+{
+  "name": "Linkify",
+  "description": "A high-performance link-in-bio tool featuring custom profile layouts, drag-and-drop links, advanced click analytics, custom themes, dark mode, real-time metrics, automated PDF reports, and AI hashtag suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
