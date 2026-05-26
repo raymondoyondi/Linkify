@@ -354,9 +354,8 @@ export default function App() {
               </div>
               <div>
                 <h1 className="text-lg font-black tracking-tight font-mono flex items-center gap-1.5">
-                  Linkify <span className="text-indigo-500 font-bold">🔗</span>
+                  Linkify
                 </h1>
-                <p className="text-[10px] text-slate-500 dark:text-slate-400 font-mono tracking-widest font-black uppercase">CREATOR CHANNELS SUITE</p>
               </div>
             </div>
             
@@ -756,7 +755,7 @@ export default function App() {
               <div>
                 <div className="flex items-center gap-2">
                   <h1 className="text-xl font-black tracking-tight font-mono flex items-center gap-1">
-                    Linkify <span className="text-indigo-500 font-bold">🔗</span>
+                    Linkify
                   </h1>
                 </div>
                 <p className="text-xs text-slate-500 dark:text-slate-400 font-medium">Professional Link-In-Bio Builder & Real-time Click Analytics Suite</p>
